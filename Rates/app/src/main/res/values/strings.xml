@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rates</string>
+    <string name="error_dismiss">ок</string>
+    <string name="error_rate_request_failed">Ошибка при получении списка валют</string>
+</resources>

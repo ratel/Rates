@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rate_img_size">40dp</dimen>
+    <dimen name="rate_value_width">100dp</dimen>
+
+    <dimen name="gap_20">20dp</dimen>
+
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="subtext_size">16sp</dimen>
+</resources>
